@@ -1,0 +1,8 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Payment functions live in netlify/functions and answer at /api/* (see each file's config).
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"

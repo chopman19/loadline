@@ -1,0 +1,4463 @@
+[
+ {
+  "name": "Afghanistan",
+  "aliases": [],
+  "iso2": "AF",
+  "iso3": "AFG",
+  "population": 45047000,
+  "continent": "Asia",
+  "subregion": "Southern Asia",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "PAK",
+   "IRN",
+   "TKM",
+   "UZB",
+   "TJK",
+   "CHN"
+  ],
+  "unMember": true,
+  "fact": "Afghanistan's Wakhan Corridor is a thin finger of land that reaches all the way to China."
+ },
+ {
+  "name": "Albania",
+  "aliases": [],
+  "iso2": "AL",
+  "iso3": "ALB",
+  "population": 2751000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "GRC",
+   "MKD",
+   "MNE",
+   "XKX"
+  ],
+  "unMember": true,
+  "fact": "Albania built over 170,000 concrete bunkers during the Cold War."
+ },
+ {
+  "name": "Algeria",
+  "aliases": [],
+  "iso2": "DZ",
+  "iso3": "DZA",
+  "population": 48028000,
+  "continent": "Africa",
+  "subregion": "Northern Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "MAR",
+   "MRT",
+   "MLI",
+   "NER",
+   "LBY",
+   "TUN"
+  ],
+  "unMember": true,
+  "fact": "Algeria is Africa's largest country by area."
+ },
+ {
+  "name": "Andorra",
+  "aliases": [],
+  "iso2": "AD",
+  "iso3": "AND",
+  "population": 84000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "FRA",
+   "ESP"
+  ],
+  "unMember": true,
+  "fact": "Andorra has two co-princes: the President of France and a Spanish bishop."
+ },
+ {
+  "name": "Angola",
+  "aliases": [],
+  "iso2": "AO",
+  "iso3": "AGO",
+  "population": 40215000,
+  "continent": "Africa",
+  "subregion": "Middle Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [],
+  "neighbors": [
+   "COD",
+   "COG",
+   "NAM",
+   "ZMB"
+  ],
+  "unMember": true,
+  "fact": "Angola's Cabinda province is cut off from the rest of the country by a strip of DR Congo."
+ },
+ {
+  "name": "Antigua and Barbuda",
+  "aliases": [
+   "Antigua"
+  ],
+  "iso2": "AG",
+  "iso3": "ATG",
+  "population": 95000,
+  "continent": "North America",
+  "subregion": "Caribbean",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Antigua is said to have 365 beaches, one for every day of the year."
+ },
+ {
+  "name": "Argentina",
+  "aliases": [],
+  "iso2": "AR",
+  "iso3": "ARG",
+  "population": 46004000,
+  "continent": "South America",
+  "subregion": "South America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [],
+  "neighbors": [
+   "CHL",
+   "BOL",
+   "PRY",
+   "BRA",
+   "URY"
+  ],
+  "unMember": true,
+  "fact": "Argentina's Aconcagua is the highest mountain outside Asia."
+ },
+ {
+  "name": "Armenia",
+  "aliases": [],
+  "iso2": "AM",
+  "iso3": "ARM",
+  "population": 2931000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "GEO",
+   "AZE",
+   "IRN",
+   "TUR"
+  ],
+  "unMember": true,
+  "fact": "Armenia was the first country to adopt Christianity as a state religion, in 301 AD."
+ },
+ {
+  "name": "Australia",
+  "aliases": [
+   "Oz"
+  ],
+  "iso2": "AU",
+  "iso3": "AUS",
+  "population": 27227000,
+  "continent": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [
+   "Indian Ocean",
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Australia is wider than the Moon."
+ },
+ {
+  "name": "Austria",
+  "aliases": [],
+  "iso2": "AT",
+  "iso3": "AUT",
+  "population": 9107000,
+  "continent": "Europe",
+  "subregion": "Western Europe",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "DEU",
+   "CZE",
+   "SVK",
+   "HUN",
+   "SVN",
+   "ITA",
+   "CHE",
+   "LIE"
+  ],
+  "unMember": true,
+  "fact": "Vienna's Schönbrunn Zoo, founded in 1752, is the oldest zoo still operating."
+ },
+ {
+  "name": "Azerbaijan",
+  "aliases": [],
+  "iso2": "AZ",
+  "iso3": "AZE",
+  "population": 10455000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Caspian Sea"
+  ],
+  "neighbors": [
+   "RUS",
+   "GEO",
+   "ARM",
+   "IRN",
+   "TUR"
+  ],
+  "unMember": true,
+  "fact": "Azerbaijan has around half of all the mud volcanoes on Earth."
+ },
+ {
+  "name": "Bahamas",
+  "aliases": [
+   "The Bahamas"
+  ],
+  "iso2": "BS",
+  "iso3": "BHS",
+  "population": 405000,
+  "continent": "North America",
+  "subregion": "Caribbean",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "The Bahamas has a beach where wild pigs swim out to meet boats."
+ },
+ {
+  "name": "Bahrain",
+  "aliases": [],
+  "iso2": "BH",
+  "iso3": "BHR",
+  "population": 1676000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Bahrain is an archipelago linked to Saudi Arabia by a 25 km causeway."
+ },
+ {
+  "name": "Bangladesh",
+  "aliases": [],
+  "iso2": "BD",
+  "iso3": "BGD",
+  "population": 177818000,
+  "continent": "Asia",
+  "subregion": "Southern Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [
+   "IND",
+   "MMR"
+  ],
+  "unMember": true,
+  "fact": "Bangladesh is one of the most densely populated countries on Earth."
+ },
+ {
+  "name": "Barbados",
+  "aliases": [],
+  "iso2": "BB",
+  "iso3": "BRB",
+  "population": 283000,
+  "continent": "North America",
+  "subregion": "Caribbean",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Barbados is known as the birthplace of rum, with a distillery dating to 1703."
+ },
+ {
+  "name": "Belarus",
+  "aliases": [
+   "Byelorussia"
+  ],
+  "iso2": "BY",
+  "iso3": "BLR",
+  "population": 8937000,
+  "continent": "Europe",
+  "subregion": "Eastern Europe",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "RUS",
+   "UKR",
+   "POL",
+   "LTU",
+   "LVA"
+  ],
+  "unMember": true,
+  "fact": "Belarus shares the ancient Białowieża Forest, home of the European bison, with Poland."
+ },
+ {
+  "name": "Belgium",
+  "aliases": [],
+  "iso2": "BE",
+  "iso3": "BEL",
+  "population": 11775000,
+  "continent": "Europe",
+  "subregion": "Western Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "FRA",
+   "LUX",
+   "DEU",
+   "NLD"
+  ],
+  "unMember": true,
+  "fact": "Belgium has three official languages: Dutch, French and German."
+ },
+ {
+  "name": "Belize",
+  "aliases": [],
+  "iso2": "BZ",
+  "iso3": "BLZ",
+  "population": 429000,
+  "continent": "North America",
+  "subregion": "Central America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "MEX",
+   "GTM"
+  ],
+  "unMember": true,
+  "fact": "Belize's Great Blue Hole is a marine sinkhole over 300 metres across."
+ },
+ {
+  "name": "Benin",
+  "aliases": [
+   "Dahomey"
+  ],
+  "iso2": "BJ",
+  "iso3": "BEN",
+  "population": 15170000,
+  "continent": "Africa",
+  "subregion": "Western Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "TGO",
+   "NGA",
+   "NER",
+   "BFA"
+  ],
+  "unMember": true,
+  "fact": "Benin was home to the Kingdom of Dahomey and its famed female warriors."
+ },
+ {
+  "name": "Bhutan",
+  "aliases": [],
+  "iso2": "BT",
+  "iso3": "BTN",
+  "population": 802000,
+  "continent": "Asia",
+  "subregion": "Southern Asia",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "CHN",
+   "IND"
+  ],
+  "unMember": true,
+  "fact": "Bhutan measures its progress by Gross National Happiness."
+ },
+ {
+  "name": "Bolivia",
+  "aliases": [],
+  "iso2": "BO",
+  "iso3": "BOL",
+  "population": 12749000,
+  "continent": "South America",
+  "subregion": "South America",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [],
+  "neighbors": [
+   "BRA",
+   "PRY",
+   "ARG",
+   "CHL",
+   "PER"
+  ],
+  "unMember": true,
+  "fact": "Bolivia's Salar de Uyuni is the largest salt flat in the world."
+ },
+ {
+  "name": "Bosnia and Herzegovina",
+  "aliases": [
+   "Bosnia",
+   "BiH"
+  ],
+  "iso2": "BA",
+  "iso3": "BIH",
+  "population": 3114000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "HRV",
+   "SRB",
+   "MNE"
+  ],
+  "unMember": true,
+  "fact": "Bosnia and Herzegovina has just 20 km of coastline, at Neum."
+ },
+ {
+  "name": "Botswana",
+  "aliases": [],
+  "iso2": "BW",
+  "iso3": "BWA",
+  "population": 2603000,
+  "continent": "Africa",
+  "subregion": "Southern Africa",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [],
+  "neighbors": [
+   "NAM",
+   "ZAF",
+   "ZWE",
+   "ZMB"
+  ],
+  "unMember": true,
+  "fact": "Botswana has the largest elephant population in the world."
+ },
+ {
+  "name": "Brazil",
+  "aliases": [
+   "Brasil"
+  ],
+  "iso2": "BR",
+  "iso3": "BRA",
+  "population": 213563000,
+  "continent": "South America",
+  "subregion": "South America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "both",
+  "seas": [],
+  "neighbors": [
+   "URY",
+   "ARG",
+   "PRY",
+   "BOL",
+   "PER",
+   "COL",
+   "VEN",
+   "GUY",
+   "SUR"
+  ],
+  "unMember": true,
+  "fact": "Brazil borders every South American country except Chile and Ecuador."
+ },
+ {
+  "name": "Brunei",
+  "aliases": [
+   "Brunei Darussalam"
+  ],
+  "iso2": "BN",
+  "iso3": "BRN",
+  "population": 470000,
+  "continent": "Asia",
+  "subregion": "South-eastern Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "MYS"
+  ],
+  "unMember": true,
+  "fact": "Brunei's sultan lives in the largest residential palace in the world."
+ },
+ {
+  "name": "Bulgaria",
+  "aliases": [],
+  "iso2": "BG",
+  "iso3": "BGR",
+  "population": 6668000,
+  "continent": "Europe",
+  "subregion": "Eastern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Black Sea"
+  ],
+  "neighbors": [
+   "ROU",
+   "SRB",
+   "MKD",
+   "GRC",
+   "TUR"
+  ],
+  "unMember": true,
+  "fact": "In Bulgaria a nod means no and a shake of the head means yes."
+ },
+ {
+  "name": "Burkina Faso",
+  "aliases": [
+   "Upper Volta",
+   "Burkina"
+  ],
+  "iso2": "BF",
+  "iso3": "BFA",
+  "population": 24602000,
+  "continent": "Africa",
+  "subregion": "Western Africa",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "MLI",
+   "NER",
+   "BEN",
+   "TGO",
+   "GHA",
+   "CIV"
+  ],
+  "unMember": true,
+  "fact": "Burkina Faso's name means 'land of upright people'."
+ },
+ {
+  "name": "Burundi",
+  "aliases": [],
+  "iso2": "BI",
+  "iso3": "BDI",
+  "population": 14729000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [],
+  "neighbors": [
+   "RWA",
+   "TZA",
+   "COD"
+  ],
+  "unMember": true,
+  "fact": "Burundi sits on Lake Tanganyika, the second-deepest lake in the world."
+ },
+ {
+  "name": "Cabo Verde",
+  "aliases": [
+   "Cape Verde"
+  ],
+  "iso2": "CV",
+  "iso3": "CPV",
+  "population": 530000,
+  "continent": "Africa",
+  "subregion": "Western Africa",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Cabo Verde's islands were uninhabited until Portuguese sailors arrived in the 1400s."
+ },
+ {
+  "name": "Cambodia",
+  "aliases": [
+   "Kampuchea"
+  ],
+  "iso2": "KH",
+  "iso3": "KHM",
+  "population": 18051000,
+  "continent": "Asia",
+  "subregion": "South-eastern Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "THA",
+   "LAO",
+   "VNM"
+  ],
+  "unMember": true,
+  "fact": "Cambodia's flag shows Angkor Wat, the largest religious monument in the world."
+ },
+ {
+  "name": "Cameroon",
+  "aliases": [],
+  "iso2": "CM",
+  "iso3": "CMR",
+  "population": 30641000,
+  "continent": "Africa",
+  "subregion": "Middle Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "NGA",
+   "TCD",
+   "CAF",
+   "COG",
+   "GAB",
+   "GNQ"
+  ],
+  "unMember": true,
+  "fact": "Cameroon is nicknamed 'Africa in miniature' for its varied landscapes."
+ },
+ {
+  "name": "Canada",
+  "aliases": [],
+  "iso2": "CA",
+  "iso3": "CAN",
+  "population": 40468000,
+  "continent": "North America",
+  "subregion": "Northern America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "USA"
+  ],
+  "unMember": true,
+  "fact": "Canada has the longest coastline of any country."
+ },
+ {
+  "name": "Central African Republic",
+  "aliases": [
+   "CAR"
+  ],
+  "iso2": "CF",
+  "iso3": "CAF",
+  "population": 5699000,
+  "continent": "Africa",
+  "subregion": "Middle Africa",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "TCD",
+   "SDN",
+   "SSD",
+   "COD",
+   "COG",
+   "CMR"
+  ],
+  "unMember": true,
+  "fact": "The Central African Republic sits almost exactly at the heart of the continent."
+ },
+ {
+  "name": "Chad",
+  "aliases": [],
+  "iso2": "TD",
+  "iso3": "TCD",
+  "population": 21560000,
+  "continent": "Africa",
+  "subregion": "Middle Africa",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "LBY",
+   "SDN",
+   "CAF",
+   "CMR",
+   "NGA",
+   "NER"
+  ],
+  "unMember": true,
+  "fact": "Chad is named after Lake Chad, which has shrunk by about 90% since the 1960s."
+ },
+ {
+  "name": "Chile",
+  "aliases": [],
+  "iso2": "CL",
+  "iso3": "CHL",
+  "population": 19946000,
+  "continent": "South America",
+  "subregion": "South America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "PER",
+   "BOL",
+   "ARG"
+  ],
+  "unMember": true,
+  "fact": "Chile is about 4,300 km long but on average only 175 km wide."
+ },
+ {
+  "name": "China",
+  "aliases": [
+   "PRC",
+   "People's Republic of China"
+  ],
+  "iso2": "CN",
+  "iso3": "CHN",
+  "population": 1412914000,
+  "continent": "Asia",
+  "subregion": "Eastern Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "AFG",
+   "PAK",
+   "IND",
+   "NPL",
+   "BTN",
+   "MMR",
+   "LAO",
+   "VNM",
+   "PRK",
+   "RUS",
+   "MNG",
+   "KAZ",
+   "KGZ",
+   "TJK"
+  ],
+  "unMember": true,
+  "fact": "China spans five geographic time zones but uses just one."
+ },
+ {
+  "name": "Colombia",
+  "aliases": [],
+  "iso2": "CO",
+  "iso3": "COL",
+  "population": 53936000,
+  "continent": "South America",
+  "subregion": "South America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "both",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "PAN",
+   "VEN",
+   "BRA",
+   "PER",
+   "ECU"
+  ],
+  "unMember": true,
+  "fact": "Colombia is the only South American country with both Pacific and Caribbean coasts."
+ },
+ {
+  "name": "Comoros",
+  "aliases": [],
+  "iso2": "KM",
+  "iso3": "COM",
+  "population": 899000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "S",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Comoros grows much of the world’s ylang-ylang, a flower used in perfume."
+ },
+ {
+  "name": "Congo",
+  "aliases": [
+   "Republic of the Congo",
+   "Congo-Brazzaville",
+   "Congo Republic"
+  ],
+  "iso2": "CG",
+  "iso3": "COG",
+  "population": 6638000,
+  "continent": "Africa",
+  "subregion": "Middle Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "both",
+  "seas": [],
+  "neighbors": [
+   "GAB",
+   "CMR",
+   "CAF",
+   "COD",
+   "AGO"
+  ],
+  "unMember": true,
+  "fact": "Brazzaville and Kinshasa face each other across the Congo River."
+ },
+ {
+  "name": "Costa Rica",
+  "aliases": [],
+  "iso2": "CR",
+  "iso3": "CRI",
+  "population": 5175000,
+  "continent": "North America",
+  "subregion": "Central America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "NIC",
+   "PAN"
+  ],
+  "unMember": true,
+  "fact": "Costa Rica abolished its army in 1948."
+ },
+ {
+  "name": "Côte d'Ivoire",
+  "aliases": [
+   "Ivory Coast"
+  ],
+  "iso2": "CI",
+  "iso3": "CIV",
+  "population": 33494000,
+  "continent": "Africa",
+  "subregion": "Western Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "LBR",
+   "GIN",
+   "MLI",
+   "BFA",
+   "GHA"
+  ],
+  "unMember": true,
+  "fact": "Côte d'Ivoire is the world's largest cocoa producer."
+ },
+ {
+  "name": "Croatia",
+  "aliases": [
+   "Hrvatska"
+  ],
+  "iso2": "HR",
+  "iso3": "HRV",
+  "population": 3822000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "SVN",
+   "HUN",
+   "SRB",
+   "BIH",
+   "MNE"
+  ],
+  "unMember": true,
+  "fact": "Croatia has more than a thousand islands along its Adriatic coast."
+ },
+ {
+  "name": "Cuba",
+  "aliases": [],
+  "iso2": "CU",
+  "iso3": "CUB",
+  "population": 10893000,
+  "continent": "North America",
+  "subregion": "Caribbean",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Cuba is home to the bee hummingbird, the smallest bird in the world."
+ },
+ {
+  "name": "Cyprus",
+  "aliases": [],
+  "iso2": "CY",
+  "iso3": "CYP",
+  "population": 1382000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Cyprus is said to be the birthplace of Aphrodite."
+ },
+ {
+  "name": "Czechia",
+  "aliases": [
+   "Czech Republic",
+   "Czech"
+  ],
+  "iso2": "CZ",
+  "iso3": "CZE",
+  "population": 10528000,
+  "continent": "Europe",
+  "subregion": "Eastern Europe",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "DEU",
+   "POL",
+   "SVK",
+   "AUT"
+  ],
+  "unMember": true,
+  "fact": "Czechs drink more beer per person than anyone else on Earth."
+ },
+ {
+  "name": "Denmark",
+  "aliases": [],
+  "iso2": "DK",
+  "iso3": "DNK",
+  "population": 6024000,
+  "continent": "Europe",
+  "subregion": "Northern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Baltic Sea"
+  ],
+  "neighbors": [
+   "DEU"
+  ],
+  "unMember": true,
+  "fact": "Denmark's flag is the oldest national flag still in use."
+ },
+ {
+  "name": "Djibouti",
+  "aliases": [],
+  "iso2": "DJ",
+  "iso3": "DJI",
+  "population": 1199000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Red Sea",
+   "Indian Ocean"
+  ],
+  "neighbors": [
+   "ERI",
+   "ETH",
+   "SOM"
+  ],
+  "unMember": true,
+  "fact": "Djibouti's Lake Assal, 155 m below sea level, is the lowest point in Africa."
+ },
+ {
+  "name": "Dominica",
+  "aliases": [],
+  "iso2": "DM",
+  "iso3": "DMA",
+  "population": 66000,
+  "continent": "North America",
+  "subregion": "Caribbean",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Dominica's Boiling Lake is the second-largest hot spring in the world."
+ },
+ {
+  "name": "Dominican Republic",
+  "aliases": [
+   "DR",
+   "Dominican Rep"
+  ],
+  "iso2": "DO",
+  "iso3": "DOM",
+  "population": 11610000,
+  "continent": "North America",
+  "subregion": "Caribbean",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "HTI"
+  ],
+  "unMember": true,
+  "fact": "Santo Domingo is the oldest European-founded city in the Americas that is still inhabited."
+ },
+ {
+  "name": "DR Congo",
+  "aliases": [
+   "Democratic Republic of the Congo",
+   "DRC",
+   "Congo-Kinshasa",
+   "Zaire"
+  ],
+  "iso2": "CD",
+  "iso3": "COD",
+  "population": 116452000,
+  "continent": "Africa",
+  "subregion": "Middle Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "both",
+  "seas": [],
+  "neighbors": [
+   "COG",
+   "CAF",
+   "SSD",
+   "UGA",
+   "RWA",
+   "BDI",
+   "TZA",
+   "ZMB",
+   "AGO"
+  ],
+  "unMember": true,
+  "fact": "The Congo River is the deepest river in the world, over 220 m in places."
+ },
+ {
+  "name": "Ecuador",
+  "aliases": [],
+  "iso2": "EC",
+  "iso3": "ECU",
+  "population": 18445000,
+  "continent": "South America",
+  "subregion": "South America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "both",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "COL",
+   "PER"
+  ],
+  "unMember": true,
+  "fact": "The summit of Ecuador's Chimborazo is the point on Earth farthest from its centre."
+ },
+ {
+  "name": "Egypt",
+  "aliases": [],
+  "iso2": "EG",
+  "iso3": "EGY",
+  "population": 120101000,
+  "continent": "Africa",
+  "subregion": "Northern Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea",
+   "Red Sea"
+  ],
+  "neighbors": [
+   "LBY",
+   "SDN",
+   "ISR",
+   "PSE"
+  ],
+  "unMember": true,
+  "fact": "About 95% of Egyptians live within a few kilometres of the Nile."
+ },
+ {
+  "name": "El Salvador",
+  "aliases": [
+   "Salvador"
+  ],
+  "iso2": "SV",
+  "iso3": "SLV",
+  "population": 6391000,
+  "continent": "North America",
+  "subregion": "Central America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "GTM",
+   "HND"
+  ],
+  "unMember": true,
+  "fact": "El Salvador is the smallest country in Central America."
+ },
+ {
+  "name": "Equatorial Guinea",
+  "aliases": [],
+  "iso2": "GQ",
+  "iso3": "GNQ",
+  "population": 1984000,
+  "continent": "Africa",
+  "subregion": "Middle Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "both",
+  "seas": [],
+  "neighbors": [
+   "CMR",
+   "GAB"
+  ],
+  "unMember": true,
+  "fact": "Equatorial Guinea is the only African country with Spanish as an official language."
+ },
+ {
+  "name": "Eritrea",
+  "aliases": [],
+  "iso2": "ER",
+  "iso3": "ERI",
+  "population": 3683000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Red Sea"
+  ],
+  "neighbors": [
+   "SDN",
+   "ETH",
+   "DJI"
+  ],
+  "unMember": true,
+  "fact": "Eritrea's capital, Asmara, is a UNESCO site full of Art Deco buildings."
+ },
+ {
+  "name": "Estonia",
+  "aliases": [],
+  "iso2": "EE",
+  "iso3": "EST",
+  "population": 1331000,
+  "continent": "Europe",
+  "subregion": "Northern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Baltic Sea"
+  ],
+  "neighbors": [
+   "LVA",
+   "RUS"
+  ],
+  "unMember": true,
+  "fact": "Estonia was the first country to offer online voting in national elections."
+ },
+ {
+  "name": "Eswatini",
+  "aliases": [
+   "Swaziland"
+  ],
+  "iso2": "SZ",
+  "iso3": "SWZ",
+  "population": 1270000,
+  "continent": "Africa",
+  "subregion": "Southern Africa",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [],
+  "neighbors": [
+   "ZAF",
+   "MOZ"
+  ],
+  "unMember": true,
+  "fact": "Eswatini is one of the last absolute monarchies in the world."
+ },
+ {
+  "name": "Ethiopia",
+  "aliases": [
+   "Abyssinia"
+  ],
+  "iso2": "ET",
+  "iso3": "ETH",
+  "population": 138902000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "ERI",
+   "DJI",
+   "SOM",
+   "KEN",
+   "SSD",
+   "SDN"
+  ],
+  "unMember": true,
+  "fact": "Ethiopia's calendar runs seven to eight years behind the Gregorian one."
+ },
+ {
+  "name": "Fiji",
+  "aliases": [],
+  "iso2": "FJ",
+  "iso3": "FJI",
+  "population": 937000,
+  "continent": "Oceania",
+  "subregion": "Melanesia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "S",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Fiji is made up of more than 300 islands."
+ },
+ {
+  "name": "Finland",
+  "aliases": [
+   "Suomi"
+  ],
+  "iso2": "FI",
+  "iso3": "FIN",
+  "population": 5622000,
+  "continent": "Europe",
+  "subregion": "Northern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Baltic Sea"
+  ],
+  "neighbors": [
+   "SWE",
+   "NOR",
+   "RUS"
+  ],
+  "unMember": true,
+  "fact": "Finland has around three million saunas, roughly one for every two people."
+ },
+ {
+  "name": "France",
+  "aliases": [],
+  "iso2": "FR",
+  "iso3": "FRA",
+  "population": 66746000,
+  "continent": "Europe",
+  "subregion": "Western Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "BEL",
+   "LUX",
+   "DEU",
+   "CHE",
+   "ITA",
+   "MCO",
+   "AND",
+   "ESP"
+  ],
+  "unMember": true,
+  "fact": "Thanks to its overseas territories, France spans 12 time zones, more than any country."
+ },
+ {
+  "name": "Gabon",
+  "aliases": [],
+  "iso2": "GA",
+  "iso3": "GAB",
+  "population": 2647000,
+  "continent": "Africa",
+  "subregion": "Middle Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "both",
+  "seas": [],
+  "neighbors": [
+   "GNQ",
+   "CMR",
+   "COG"
+  ],
+  "unMember": true,
+  "fact": "Nearly 90% of Gabon is covered by rainforest."
+ },
+ {
+  "name": "Gambia",
+  "aliases": [
+   "The Gambia"
+  ],
+  "iso2": "GM",
+  "iso3": "GMB",
+  "population": 2884000,
+  "continent": "Africa",
+  "subregion": "Western Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "SEN"
+  ],
+  "unMember": true,
+  "fact": "The Gambia is almost entirely surrounded by Senegal."
+ },
+ {
+  "name": "Georgia",
+  "aliases": [
+   "Sakartvelo"
+  ],
+  "iso2": "GE",
+  "iso3": "GEO",
+  "population": 3805000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Black Sea"
+  ],
+  "neighbors": [
+   "RUS",
+   "AZE",
+   "ARM",
+   "TUR"
+  ],
+  "unMember": true,
+  "fact": "Georgia has been making wine for around 8,000 years."
+ },
+ {
+  "name": "Germany",
+  "aliases": [
+   "Deutschland"
+  ],
+  "iso2": "DE",
+  "iso3": "DEU",
+  "population": 83644000,
+  "continent": "Europe",
+  "subregion": "Western Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Baltic Sea"
+  ],
+  "neighbors": [
+   "DNK",
+   "POL",
+   "CZE",
+   "AUT",
+   "CHE",
+   "FRA",
+   "LUX",
+   "BEL",
+   "NLD"
+  ],
+  "unMember": true,
+  "fact": "Germany has nine neighbours, more than any other EU country."
+ },
+ {
+  "name": "Ghana",
+  "aliases": [
+   "Gold Coast"
+  ],
+  "iso2": "GH",
+  "iso3": "GHA",
+  "population": 35698000,
+  "continent": "Africa",
+  "subregion": "Western Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "CIV",
+   "BFA",
+   "TGO"
+  ],
+  "unMember": true,
+  "fact": "Ghana's Lake Volta is one of the largest artificial lakes in the world."
+ },
+ {
+  "name": "Greece",
+  "aliases": [
+   "Hellas"
+  ],
+  "iso2": "GR",
+  "iso3": "GRC",
+  "population": 9897000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "ALB",
+   "MKD",
+   "BGR",
+   "TUR"
+  ],
+  "unMember": true,
+  "fact": "Greece has about 6,000 islands, of which only around 227 are inhabited."
+ },
+ {
+  "name": "Greenland",
+  "aliases": [
+   "Kalaallit Nunaat"
+  ],
+  "iso2": "GL",
+  "iso3": "GRL",
+  "population": 56000,
+  "continent": "North America",
+  "subregion": "Northern America",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [],
+  "unMember": false,
+  "fact": "Greenland is the largest island in the world that is not a continent."
+ },
+ {
+  "name": "Grenada",
+  "aliases": [],
+  "iso2": "GD",
+  "iso3": "GRD",
+  "population": 117000,
+  "continent": "North America",
+  "subregion": "Caribbean",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Grenada, the 'Spice Isle', puts a nutmeg on its flag."
+ },
+ {
+  "name": "Guatemala",
+  "aliases": [],
+  "iso2": "GT",
+  "iso3": "GTM",
+  "population": 18968000,
+  "continent": "North America",
+  "subregion": "Central America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "MEX",
+   "BLZ",
+   "HND",
+   "SLV"
+  ],
+  "unMember": true,
+  "fact": "Guatemala's Tikal was one of the largest cities of the ancient Maya."
+ },
+ {
+  "name": "Guinea",
+  "aliases": [
+   "Guinea-Conakry"
+  ],
+  "iso2": "GN",
+  "iso3": "GIN",
+  "population": 15442000,
+  "continent": "Africa",
+  "subregion": "Western Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "GNB",
+   "SEN",
+   "MLI",
+   "CIV",
+   "LBR",
+   "SLE"
+  ],
+  "unMember": true,
+  "fact": "The Niger, Senegal and Gambia rivers all rise in Guinea, the 'water tower of West Africa'."
+ },
+ {
+  "name": "Guinea-Bissau",
+  "aliases": [
+   "Guinea Bissau"
+  ],
+  "iso2": "GW",
+  "iso3": "GNB",
+  "population": 2298000,
+  "continent": "Africa",
+  "subregion": "Western Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "SEN",
+   "GIN"
+  ],
+  "unMember": true,
+  "fact": "Guinea-Bissau's Bijagós islands are home to rare saltwater hippos."
+ },
+ {
+  "name": "Guyana",
+  "aliases": [],
+  "iso2": "GY",
+  "iso3": "GUY",
+  "population": 841000,
+  "continent": "South America",
+  "subregion": "South America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "VEN",
+   "BRA",
+   "SUR"
+  ],
+  "unMember": true,
+  "fact": "Guyana's Kaieteur Falls is about four times taller than Niagara."
+ },
+ {
+  "name": "Haiti",
+  "aliases": [],
+  "iso2": "HT",
+  "iso3": "HTI",
+  "population": 12038000,
+  "continent": "North America",
+  "subregion": "Caribbean",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "DOM"
+  ],
+  "unMember": true,
+  "fact": "Haiti became the first independent Black republic in 1804."
+ },
+ {
+  "name": "Honduras",
+  "aliases": [],
+  "iso2": "HN",
+  "iso3": "HND",
+  "population": 11185000,
+  "continent": "North America",
+  "subregion": "Central America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "GTM",
+   "SLV",
+   "NIC"
+  ],
+  "unMember": true,
+  "fact": "Honduras was the original 'banana republic'."
+ },
+ {
+  "name": "Hong Kong",
+  "aliases": [
+   "HK"
+  ],
+  "iso2": "HK",
+  "iso3": "HKG",
+  "population": 7379000,
+  "continent": "Asia",
+  "subregion": "Eastern Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": false,
+  "fact": "Hong Kong has more skyscrapers than any other city."
+ },
+ {
+  "name": "Hungary",
+  "aliases": [
+   "Magyarorszag"
+  ],
+  "iso2": "HU",
+  "iso3": "HUN",
+  "population": 9586000,
+  "continent": "Europe",
+  "subregion": "Eastern Europe",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "AUT",
+   "SVK",
+   "UKR",
+   "ROU",
+   "SRB",
+   "HRV",
+   "SVN"
+  ],
+  "unMember": true,
+  "fact": "The Rubik's Cube was invented in Hungary in 1974."
+ },
+ {
+  "name": "Iceland",
+  "aliases": [],
+  "iso2": "IS",
+  "iso3": "ISL",
+  "population": 402000,
+  "continent": "Europe",
+  "subregion": "Northern Europe",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Iceland's parliament, the Althing, was founded in 930 and is one of the oldest in the world."
+ },
+ {
+  "name": "India",
+  "aliases": [
+   "Bharat"
+  ],
+  "iso2": "IN",
+  "iso3": "IND",
+  "population": 1476626000,
+  "continent": "Asia",
+  "subregion": "Southern Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [
+   "PAK",
+   "CHN",
+   "NPL",
+   "BTN",
+   "BGD",
+   "MMR"
+  ],
+  "unMember": true,
+  "fact": "India has the largest population of any country."
+ },
+ {
+  "name": "Indonesia",
+  "aliases": [],
+  "iso2": "ID",
+  "iso3": "IDN",
+  "population": 287887000,
+  "continent": "Asia",
+  "subregion": "South-eastern Asia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "both",
+  "seas": [
+   "Indian Ocean",
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "MYS",
+   "PNG",
+   "TLS"
+  ],
+  "unMember": true,
+  "fact": "Indonesia is the largest archipelago nation, with over 17,000 islands."
+ },
+ {
+  "name": "Iran",
+  "aliases": [
+   "Persia"
+  ],
+  "iso2": "IR",
+  "iso3": "IRN",
+  "population": 93168000,
+  "continent": "Asia",
+  "subregion": "Southern Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Caspian Sea",
+   "Indian Ocean"
+  ],
+  "neighbors": [
+   "IRQ",
+   "TUR",
+   "ARM",
+   "AZE",
+   "TKM",
+   "AFG",
+   "PAK"
+  ],
+  "unMember": true,
+  "fact": "Nowruz, the Persian New Year, has been celebrated in Iran for over 3,000 years."
+ },
+ {
+  "name": "Iraq",
+  "aliases": [
+   "Mesopotamia"
+  ],
+  "iso2": "IQ",
+  "iso3": "IRQ",
+  "population": 48007000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "TUR",
+   "IRN",
+   "KWT",
+   "SAU",
+   "JOR",
+   "SYR"
+  ],
+  "unMember": true,
+  "fact": "Writing first appeared in Mesopotamia, in modern Iraq, around 3200 BC."
+ },
+ {
+  "name": "Ireland",
+  "aliases": [
+   "Eire",
+   "Republic of Ireland"
+  ],
+  "iso2": "IE",
+  "iso3": "IRL",
+  "population": 5357000,
+  "continent": "Europe",
+  "subregion": "Northern Europe",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "GBR"
+  ],
+  "unMember": true,
+  "fact": "Halloween grew out of Samhain, an ancient Irish festival."
+ },
+ {
+  "name": "Israel",
+  "aliases": [],
+  "iso2": "IL",
+  "iso3": "ISR",
+  "population": 9648000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea",
+   "Red Sea"
+  ],
+  "neighbors": [
+   "LBN",
+   "SYR",
+   "JOR",
+   "EGY",
+   "PSE"
+  ],
+  "unMember": true,
+  "fact": "The shore of the Dead Sea is the lowest land on Earth."
+ },
+ {
+  "name": "Italy",
+  "aliases": [
+   "Italia"
+  ],
+  "iso2": "IT",
+  "iso3": "ITA",
+  "population": 58926000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "FRA",
+   "CHE",
+   "AUT",
+   "SVN",
+   "SMR",
+   "VAT"
+  ],
+  "unMember": true,
+  "fact": "Italy has more UNESCO World Heritage Sites than almost any other country."
+ },
+ {
+  "name": "Jamaica",
+  "aliases": [],
+  "iso2": "JM",
+  "iso3": "JAM",
+  "population": 2833000,
+  "continent": "North America",
+  "subregion": "Caribbean",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Jamaica's bobsleigh team made its famous Winter Olympics debut in 1988."
+ },
+ {
+  "name": "Japan",
+  "aliases": [
+   "Nippon",
+   "Nihon"
+  ],
+  "iso2": "JP",
+  "iso3": "JPN",
+  "population": 122428000,
+  "continent": "Asia",
+  "subregion": "Eastern Asia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Japan is made up of more than 14,000 islands."
+ },
+ {
+  "name": "Jordan",
+  "aliases": [],
+  "iso2": "JO",
+  "iso3": "JOR",
+  "population": 11590000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Red Sea"
+  ],
+  "neighbors": [
+   "ISR",
+   "PSE",
+   "SYR",
+   "IRQ",
+   "SAU"
+  ],
+  "unMember": true,
+  "fact": "Petra was carved into the rose-red cliffs of Jordan over 2,000 years ago."
+ },
+ {
+  "name": "Kazakhstan",
+  "aliases": [],
+  "iso2": "KZ",
+  "iso3": "KAZ",
+  "population": 21084000,
+  "continent": "Asia",
+  "subregion": "Central Asia",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Caspian Sea"
+  ],
+  "neighbors": [
+   "RUS",
+   "CHN",
+   "KGZ",
+   "UZB",
+   "TKM"
+  ],
+  "unMember": true,
+  "fact": "Kazakhstan is the largest landlocked country in the world."
+ },
+ {
+  "name": "Kenya",
+  "aliases": [],
+  "iso2": "KE",
+  "iso3": "KEN",
+  "population": 58636000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "both",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [
+   "ETH",
+   "SOM",
+   "TZA",
+   "UGA",
+   "SSD"
+  ],
+  "unMember": true,
+  "fact": "Kenya's Rift Valley holds some of the oldest human fossils ever found."
+ },
+ {
+  "name": "Kiribati",
+  "aliases": [],
+  "iso2": "KI",
+  "iso3": "KIR",
+  "population": 138000,
+  "continent": "Oceania",
+  "subregion": "Micronesia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "both",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Kiribati is the only country that lies in all four hemispheres."
+ },
+ {
+  "name": "Kosovo",
+  "aliases": [],
+  "iso2": "XK",
+  "iso3": "XKX",
+  "population": 1586000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "ALB",
+   "MKD",
+   "SRB",
+   "MNE"
+  ],
+  "unMember": false,
+  "fact": "Kosovo declared independence in 2008, making it one of the youngest countries in Europe."
+ },
+ {
+  "name": "Kuwait",
+  "aliases": [],
+  "iso2": "KW",
+  "iso3": "KWT",
+  "population": 5103000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "IRQ",
+   "SAU"
+  ],
+  "unMember": true,
+  "fact": "The Kuwaiti dinar is the highest-valued currency unit in the world."
+ },
+ {
+  "name": "Kyrgyzstan",
+  "aliases": [
+   "Kirghizia",
+   "Kyrgyz Republic"
+  ],
+  "iso2": "KG",
+  "iso3": "KGZ",
+  "population": 7400000,
+  "continent": "Asia",
+  "subregion": "Central Asia",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "KAZ",
+   "CHN",
+   "TJK",
+   "UZB"
+  ],
+  "unMember": true,
+  "fact": "Kyrgyzstan's flag shows the crown of a yurt."
+ },
+ {
+  "name": "Laos",
+  "aliases": [
+   "Lao PDR",
+   "Lao People's Democratic Republic"
+  ],
+  "iso2": "LA",
+  "iso3": "LAO",
+  "population": 7974000,
+  "continent": "Asia",
+  "subregion": "South-eastern Asia",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "CHN",
+   "VNM",
+   "KHM",
+   "THA",
+   "MMR"
+  ],
+  "unMember": true,
+  "fact": "Laos is the most heavily bombed country per person in history."
+ },
+ {
+  "name": "Latvia",
+  "aliases": [],
+  "iso2": "LV",
+  "iso3": "LVA",
+  "population": 1836000,
+  "continent": "Europe",
+  "subregion": "Northern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Baltic Sea"
+  ],
+  "neighbors": [
+   "EST",
+   "LTU",
+   "BLR",
+   "RUS"
+  ],
+  "unMember": true,
+  "fact": "Riga claims the first decorated Christmas tree, put up in 1510."
+ },
+ {
+  "name": "Lebanon",
+  "aliases": [],
+  "iso2": "LB",
+  "iso3": "LBN",
+  "population": 5897000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "SYR",
+   "ISR"
+  ],
+  "unMember": true,
+  "fact": "Lebanon's flag features a cedar tree, a symbol of the country since ancient times."
+ },
+ {
+  "name": "Lesotho",
+  "aliases": [],
+  "iso2": "LS",
+  "iso3": "LSO",
+  "population": 2389000,
+  "continent": "Africa",
+  "subregion": "Southern Africa",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [],
+  "neighbors": [
+   "ZAF"
+  ],
+  "unMember": true,
+  "fact": "Lesotho's lowest point is about 1,400 m up, the highest low point of any country."
+ },
+ {
+  "name": "Liberia",
+  "aliases": [],
+  "iso2": "LR",
+  "iso3": "LBR",
+  "population": 5854000,
+  "continent": "Africa",
+  "subregion": "Western Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "SLE",
+   "GIN",
+   "CIV"
+  ],
+  "unMember": true,
+  "fact": "Liberia, founded by freed American slaves, declared independence in 1847."
+ },
+ {
+  "name": "Libya",
+  "aliases": [],
+  "iso2": "LY",
+  "iso3": "LBY",
+  "population": 7540000,
+  "continent": "Africa",
+  "subregion": "Northern Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "TUN",
+   "DZA",
+   "NER",
+   "TCD",
+   "SDN",
+   "EGY"
+  ],
+  "unMember": true,
+  "fact": "About 90% of Libya is desert."
+ },
+ {
+  "name": "Liechtenstein",
+  "aliases": [],
+  "iso2": "LI",
+  "iso3": "LIE",
+  "population": 40000,
+  "continent": "Europe",
+  "subregion": "Western Europe",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "CHE",
+   "AUT"
+  ],
+  "unMember": true,
+  "fact": "Liechtenstein is one of the largest makers of false teeth in the world."
+ },
+ {
+  "name": "Lithuania",
+  "aliases": [],
+  "iso2": "LT",
+  "iso3": "LTU",
+  "population": 2797000,
+  "continent": "Europe",
+  "subregion": "Northern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Baltic Sea"
+  ],
+  "neighbors": [
+   "LVA",
+   "BLR",
+   "POL",
+   "RUS"
+  ],
+  "unMember": true,
+  "fact": "Lithuanian is one of the oldest living Indo-European languages."
+ },
+ {
+  "name": "Luxembourg",
+  "aliases": [],
+  "iso2": "LU",
+  "iso3": "LUX",
+  "population": 687000,
+  "continent": "Europe",
+  "subregion": "Western Europe",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "BEL",
+   "DEU",
+   "FRA"
+  ],
+  "unMember": true,
+  "fact": "Luxembourg made all public transport free in 2020."
+ },
+ {
+  "name": "Macau",
+  "aliases": [
+   "Macao"
+  ],
+  "iso2": "MO",
+  "iso3": "MAC",
+  "population": 723000,
+  "continent": "Asia",
+  "subregion": "Eastern Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": false,
+  "fact": "Macau is one of the most densely populated places on Earth."
+ },
+ {
+  "name": "Madagascar",
+  "aliases": [],
+  "iso2": "MG",
+  "iso3": "MDG",
+  "population": 33522000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "S",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Around 90% of Madagascar's wildlife is found nowhere else on Earth."
+ },
+ {
+  "name": "Malawi",
+  "aliases": [
+   "Nyasaland"
+  ],
+  "iso2": "MW",
+  "iso3": "MWI",
+  "population": 22786000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [],
+  "neighbors": [
+   "TZA",
+   "MOZ",
+   "ZMB"
+  ],
+  "unMember": true,
+  "fact": "Lake Malawi has more fish species than any other lake."
+ },
+ {
+  "name": "Malaysia",
+  "aliases": [],
+  "iso2": "MY",
+  "iso3": "MYS",
+  "population": 36385000,
+  "continent": "Asia",
+  "subregion": "South-eastern Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Indian Ocean",
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "THA",
+   "IDN",
+   "BRN"
+  ],
+  "unMember": true,
+  "fact": "The Petronas Towers were the tallest buildings in the world from 1998 to 2004."
+ },
+ {
+  "name": "Maldives",
+  "aliases": [],
+  "iso2": "MV",
+  "iso3": "MDV",
+  "population": 532000,
+  "continent": "Asia",
+  "subregion": "Southern Asia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "both",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "The Maldives is the lowest-lying country in the world."
+ },
+ {
+  "name": "Mali",
+  "aliases": [],
+  "iso2": "ML",
+  "iso3": "MLI",
+  "population": 25932000,
+  "continent": "Africa",
+  "subregion": "Western Africa",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "DZA",
+   "NER",
+   "BFA",
+   "CIV",
+   "GIN",
+   "SEN",
+   "MRT"
+  ],
+  "unMember": true,
+  "fact": "Mali's Mansa Musa is often called the richest person in history."
+ },
+ {
+  "name": "Malta",
+  "aliases": [],
+  "iso2": "MT",
+  "iso3": "MLT",
+  "population": 549000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Malta's megalithic temples are older than Stonehenge and the pyramids of Giza."
+ },
+ {
+  "name": "Marshall Islands",
+  "aliases": [
+   "Marshalls"
+  ],
+  "iso2": "MH",
+  "iso3": "MHL",
+  "population": 35000,
+  "continent": "Oceania",
+  "subregion": "Micronesia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "The Marshall Islands' Bikini Atoll gave its name to the swimsuit."
+ },
+ {
+  "name": "Mauritania",
+  "aliases": [],
+  "iso2": "MR",
+  "iso3": "MRT",
+  "population": 5461000,
+  "continent": "Africa",
+  "subregion": "Western Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "DZA",
+   "MLI",
+   "SEN"
+  ],
+  "unMember": true,
+  "fact": "Mauritania's iron-ore trains, up to 2.5 km long, are among the longest in the world."
+ },
+ {
+  "name": "Mauritius",
+  "aliases": [],
+  "iso2": "MU",
+  "iso3": "MUS",
+  "population": 1265000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "S",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Mauritius was the only home of the dodo."
+ },
+ {
+  "name": "Mexico",
+  "aliases": [
+   "México"
+  ],
+  "iso2": "MX",
+  "iso3": "MEX",
+  "population": 132998000,
+  "continent": "North America",
+  "subregion": "Central America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "USA",
+   "GTM",
+   "BLZ"
+  ],
+  "unMember": true,
+  "fact": "Parts of Mexico City are sinking by up to 50 cm a year."
+ },
+ {
+  "name": "Micronesia",
+  "aliases": [
+   "Federated States of Micronesia",
+   "FSM"
+  ],
+  "iso2": "FM",
+  "iso3": "FSM",
+  "population": 114000,
+  "continent": "Oceania",
+  "subregion": "Micronesia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "The island of Yap in Micronesia used giant stone discs as money."
+ },
+ {
+  "name": "Moldova",
+  "aliases": [
+   "Moldavia"
+  ],
+  "iso2": "MD",
+  "iso3": "MDA",
+  "population": 2961000,
+  "continent": "Europe",
+  "subregion": "Eastern Europe",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "ROU",
+   "UKR"
+  ],
+  "unMember": true,
+  "fact": "Moldova's Mileștii Mici cellars hold the largest wine collection in the world."
+ },
+ {
+  "name": "Monaco",
+  "aliases": [],
+  "iso2": "MC",
+  "iso3": "MCO",
+  "population": 38000,
+  "continent": "Europe",
+  "subregion": "Western Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "FRA"
+  ],
+  "unMember": true,
+  "fact": "Monaco is smaller than New York's Central Park."
+ },
+ {
+  "name": "Mongolia",
+  "aliases": [],
+  "iso2": "MN",
+  "iso3": "MNG",
+  "population": 3557000,
+  "continent": "Asia",
+  "subregion": "Eastern Asia",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "RUS",
+   "CHN"
+  ],
+  "unMember": true,
+  "fact": "Mongolia is the most sparsely populated sovereign country."
+ },
+ {
+  "name": "Montenegro",
+  "aliases": [
+   "Crna Gora"
+  ],
+  "iso2": "ME",
+  "iso3": "MNE",
+  "population": 626000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "HRV",
+   "BIH",
+   "SRB",
+   "XKX",
+   "ALB"
+  ],
+  "unMember": true,
+  "fact": "Montenegro uses the euro even though it is not in the EU."
+ },
+ {
+  "name": "Morocco",
+  "aliases": [
+   "Maroc"
+  ],
+  "iso2": "MA",
+  "iso3": "MAR",
+  "population": 38762000,
+  "continent": "Africa",
+  "subregion": "Northern Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "DZA",
+   "ESP"
+  ],
+  "unMember": true,
+  "fact": "Fez’s University of al-Qarawiyyin is often called the oldest operating university."
+ },
+ {
+  "name": "Mozambique",
+  "aliases": [],
+  "iso2": "MZ",
+  "iso3": "MOZ",
+  "population": 36640000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [
+   "TZA",
+   "MWI",
+   "ZMB",
+   "ZWE",
+   "ZAF",
+   "SWZ"
+  ],
+  "unMember": true,
+  "fact": "Mozambique's flag is the only national flag featuring a modern rifle."
+ },
+ {
+  "name": "Myanmar",
+  "aliases": [
+   "Burma"
+  ],
+  "iso2": "MM",
+  "iso3": "MMR",
+  "population": 55185000,
+  "continent": "Asia",
+  "subregion": "South-eastern Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [
+   "BGD",
+   "IND",
+   "CHN",
+   "LAO",
+   "THA"
+  ],
+  "unMember": true,
+  "fact": "Myanmar's Bagan plain is dotted with over 2,000 ancient temples."
+ },
+ {
+  "name": "Namibia",
+  "aliases": [],
+  "iso2": "NA",
+  "iso3": "NAM",
+  "population": 3153000,
+  "continent": "Africa",
+  "subregion": "Southern Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [],
+  "neighbors": [
+   "AGO",
+   "ZMB",
+   "BWA",
+   "ZAF"
+  ],
+  "unMember": true,
+  "fact": "Namibia's red dunes at Sossusvlei are among the tallest in the world."
+ },
+ {
+  "name": "Nauru",
+  "aliases": [],
+  "iso2": "NR",
+  "iso3": "NRU",
+  "population": 12000,
+  "continent": "Oceania",
+  "subregion": "Micronesia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "S",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Nauru is the smallest island nation in the world and has no official capital."
+ },
+ {
+  "name": "Nepal",
+  "aliases": [],
+  "iso2": "NP",
+  "iso3": "NPL",
+  "population": 29629000,
+  "continent": "Asia",
+  "subregion": "Southern Asia",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "CHN",
+   "IND"
+  ],
+  "unMember": true,
+  "fact": "Nepal's flag is the only national flag that isn't a rectangle."
+ },
+ {
+  "name": "Netherlands",
+  "aliases": [
+   "Holland",
+   "The Netherlands"
+  ],
+  "iso2": "NL",
+  "iso3": "NLD",
+  "population": 18449000,
+  "continent": "Europe",
+  "subregion": "Western Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "DEU",
+   "BEL"
+  ],
+  "unMember": true,
+  "fact": "About a quarter of the Netherlands lies below sea level."
+ },
+ {
+  "name": "New Zealand",
+  "aliases": [
+   "Aotearoa",
+   "NZ"
+  ],
+  "iso2": "NZ",
+  "iso3": "NZL",
+  "population": 5287000,
+  "continent": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "S",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "New Zealand was the first country to give women the vote, in 1893."
+ },
+ {
+  "name": "Nicaragua",
+  "aliases": [],
+  "iso2": "NI",
+  "iso3": "NIC",
+  "population": 7097000,
+  "continent": "North America",
+  "subregion": "Central America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "HND",
+   "CRI"
+  ],
+  "unMember": true,
+  "fact": "Lake Nicaragua is home to bull sharks that swim up from the sea."
+ },
+ {
+  "name": "Niger",
+  "aliases": [],
+  "iso2": "NE",
+  "iso3": "NER",
+  "population": 28815000,
+  "continent": "Africa",
+  "subregion": "Western Africa",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "DZA",
+   "LBY",
+   "TCD",
+   "NGA",
+   "BEN",
+   "BFA",
+   "MLI"
+  ],
+  "unMember": true,
+  "fact": "Niger has one of the youngest populations in the world, with a median age of about 15."
+ },
+ {
+  "name": "Nigeria",
+  "aliases": [],
+  "iso2": "NG",
+  "iso3": "NGA",
+  "population": 242432000,
+  "continent": "Africa",
+  "subregion": "Western Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "BEN",
+   "NER",
+   "TCD",
+   "CMR"
+  ],
+  "unMember": true,
+  "fact": "Nigeria's Nollywood releases more films each year than Hollywood."
+ },
+ {
+  "name": "North Korea",
+  "aliases": [
+   "DPRK",
+   "Korea North"
+  ],
+  "iso2": "KP",
+  "iso3": "PRK",
+  "population": 26634000,
+  "continent": "Asia",
+  "subregion": "Eastern Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "CHN",
+   "KOR",
+   "RUS"
+  ],
+  "unMember": true,
+  "fact": "North Korea's Rungrado May Day Stadium is one of the largest stadiums in the world."
+ },
+ {
+  "name": "North Macedonia",
+  "aliases": [
+   "Macedonia"
+  ],
+  "iso2": "MK",
+  "iso3": "MKD",
+  "population": 1804000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "SRB",
+   "XKX",
+   "ALB",
+   "GRC",
+   "BGR"
+  ],
+  "unMember": true,
+  "fact": "North Macedonia's Lake Ohrid is one of the oldest lakes in Europe."
+ },
+ {
+  "name": "Norway",
+  "aliases": [
+   "Norge"
+  ],
+  "iso2": "NO",
+  "iso3": "NOR",
+  "population": 5653000,
+  "continent": "Europe",
+  "subregion": "Northern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "SWE",
+   "FIN",
+   "RUS"
+  ],
+  "unMember": true,
+  "fact": "Norway introduced salmon sushi to Japan in the 1980s."
+ },
+ {
+  "name": "Oman",
+  "aliases": [],
+  "iso2": "OM",
+  "iso3": "OMN",
+  "population": 5671000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [
+   "ARE",
+   "SAU",
+   "YEM"
+  ],
+  "unMember": true,
+  "fact": "Oman's Musandam peninsula is cut off from the rest of the country by the UAE."
+ },
+ {
+  "name": "Pakistan",
+  "aliases": [],
+  "iso2": "PK",
+  "iso3": "PAK",
+  "population": 259300000,
+  "continent": "Asia",
+  "subregion": "Southern Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [
+   "IND",
+   "CHN",
+   "AFG",
+   "IRN"
+  ],
+  "unMember": true,
+  "fact": "Pakistan's K2 is the second-highest mountain on Earth."
+ },
+ {
+  "name": "Palau",
+  "aliases": [],
+  "iso2": "PW",
+  "iso3": "PLW",
+  "population": 18000,
+  "continent": "Oceania",
+  "subregion": "Micronesia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Palau created the first national shark sanctuary in the world, in 2009."
+ },
+ {
+  "name": "Palestine",
+  "aliases": [
+   "State of Palestine"
+  ],
+  "iso2": "PS",
+  "iso3": "PSE",
+  "population": 5693000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "ISR",
+   "EGY",
+   "JOR"
+  ],
+  "unMember": false,
+  "fact": "Jericho, in Palestine, is often called the oldest continuously inhabited city."
+ },
+ {
+  "name": "Panama",
+  "aliases": [],
+  "iso2": "PA",
+  "iso3": "PAN",
+  "population": 4626000,
+  "continent": "North America",
+  "subregion": "Central America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "CRI",
+   "COL"
+  ],
+  "unMember": true,
+  "fact": "In Panama you can watch the sun rise over the Pacific and set over the Atlantic."
+ },
+ {
+  "name": "Papua New Guinea",
+  "aliases": [
+   "PNG"
+  ],
+  "iso2": "PG",
+  "iso3": "PNG",
+  "population": 10948000,
+  "continent": "Oceania",
+  "subregion": "Melanesia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "S",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "IDN"
+  ],
+  "unMember": true,
+  "fact": "Papua New Guinea has over 800 languages, more than any other country."
+ },
+ {
+  "name": "Paraguay",
+  "aliases": [],
+  "iso2": "PY",
+  "iso3": "PRY",
+  "population": 7095000,
+  "continent": "South America",
+  "subregion": "South America",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [],
+  "neighbors": [
+   "BOL",
+   "BRA",
+   "ARG"
+  ],
+  "unMember": true,
+  "fact": "Paraguay's flag has a different emblem on each side."
+ },
+ {
+  "name": "Peru",
+  "aliases": [],
+  "iso2": "PE",
+  "iso3": "PER",
+  "population": 34922000,
+  "continent": "South America",
+  "subregion": "South America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "ECU",
+   "COL",
+   "BRA",
+   "BOL",
+   "CHL"
+  ],
+  "unMember": true,
+  "fact": "The Amazon River begins high in the Peruvian Andes."
+ },
+ {
+  "name": "Philippines",
+  "aliases": [
+   "The Philippines"
+  ],
+  "iso2": "PH",
+  "iso3": "PHL",
+  "population": 117724000,
+  "continent": "Asia",
+  "subregion": "South-eastern Asia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "The Philippines is made up of more than 7,600 islands."
+ },
+ {
+  "name": "Poland",
+  "aliases": [
+   "Polska"
+  ],
+  "iso2": "PL",
+  "iso3": "POL",
+  "population": 37843000,
+  "continent": "Europe",
+  "subregion": "Eastern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Baltic Sea"
+  ],
+  "neighbors": [
+   "DEU",
+   "CZE",
+   "SVK",
+   "UKR",
+   "BLR",
+   "LTU",
+   "RUS"
+  ],
+  "unMember": true,
+  "fact": "Poland's Malbork Castle is the largest castle in the world by land area."
+ },
+ {
+  "name": "Portugal",
+  "aliases": [],
+  "iso2": "PT",
+  "iso3": "PRT",
+  "population": 10395000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "ESP"
+  ],
+  "unMember": true,
+  "fact": "Portugal's border with Spain has barely changed since 1297."
+ },
+ {
+  "name": "Puerto Rico",
+  "aliases": [
+   "PR"
+  ],
+  "iso2": "PR",
+  "iso3": "PRI",
+  "population": 3223000,
+  "continent": "North America",
+  "subregion": "Caribbean",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [],
+  "unMember": false,
+  "fact": "Puerto Rico's Mosquito Bay is one of the brightest bioluminescent bays in the world."
+ },
+ {
+  "name": "Qatar",
+  "aliases": [],
+  "iso2": "QA",
+  "iso3": "QAT",
+  "population": 3174000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "SAU"
+  ],
+  "unMember": true,
+  "fact": "Qatar hosted the first football World Cup in the Middle East, in 2022."
+ },
+ {
+  "name": "Romania",
+  "aliases": [
+   "Rumania"
+  ],
+  "iso2": "RO",
+  "iso3": "ROU",
+  "population": 18801000,
+  "continent": "Europe",
+  "subregion": "Eastern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Black Sea"
+  ],
+  "neighbors": [
+   "HUN",
+   "UKR",
+   "MDA",
+   "BGR",
+   "SRB"
+  ],
+  "unMember": true,
+  "fact": "Romania's Palace of the Parliament is the heaviest building in the world."
+ },
+ {
+  "name": "Russia",
+  "aliases": [
+   "Russian Federation"
+  ],
+  "iso2": "RU",
+  "iso3": "RUS",
+  "population": 143394000,
+  "continent": "Europe",
+  "subregion": "Eastern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Black Sea",
+   "Baltic Sea",
+   "Pacific Ocean",
+   "Caspian Sea"
+  ],
+  "neighbors": [
+   "NOR",
+   "FIN",
+   "EST",
+   "LVA",
+   "LTU",
+   "POL",
+   "BLR",
+   "UKR",
+   "GEO",
+   "AZE",
+   "KAZ",
+   "CHN",
+   "MNG",
+   "PRK"
+  ],
+  "unMember": true,
+  "fact": "Russia spans eleven time zones."
+ },
+ {
+  "name": "Rwanda",
+  "aliases": [],
+  "iso2": "RW",
+  "iso3": "RWA",
+  "population": 14890000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [],
+  "neighbors": [
+   "UGA",
+   "TZA",
+   "BDI",
+   "COD"
+  ],
+  "unMember": true,
+  "fact": "Rwanda banned plastic bags back in 2008."
+ },
+ {
+  "name": "Saint Kitts and Nevis",
+  "aliases": [
+   "St Kitts and Nevis",
+   "St Kitts",
+   "Saint Kitts"
+  ],
+  "iso2": "KN",
+  "iso3": "KNA",
+  "population": 47000,
+  "continent": "North America",
+  "subregion": "Caribbean",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Saint Kitts and Nevis is the smallest country in the Americas."
+ },
+ {
+  "name": "Saint Lucia",
+  "aliases": [
+   "St Lucia"
+  ],
+  "iso2": "LC",
+  "iso3": "LCA",
+  "population": 180000,
+  "continent": "North America",
+  "subregion": "Caribbean",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Saint Lucia is the only country named after a woman."
+ },
+ {
+  "name": "Saint Vincent and the Grenadines",
+  "aliases": [
+   "St Vincent and the Grenadines",
+   "St Vincent",
+   "Saint Vincent"
+  ],
+  "iso2": "VC",
+  "iso3": "VCT",
+  "population": 99000,
+  "continent": "North America",
+  "subregion": "Caribbean",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Pirates of the Caribbean was partly filmed in Saint Vincent and the Grenadines."
+ },
+ {
+  "name": "Samoa",
+  "aliases": [
+   "Western Samoa"
+  ],
+  "iso2": "WS",
+  "iso3": "WSM",
+  "population": 221000,
+  "continent": "Oceania",
+  "subregion": "Polynesia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "S",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Samoa skipped 30 December 2011 entirely to jump the International Date Line."
+ },
+ {
+  "name": "San Marino",
+  "aliases": [],
+  "iso2": "SM",
+  "iso3": "SMR",
+  "population": 34000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "ITA"
+  ],
+  "unMember": true,
+  "fact": "San Marino claims to be the oldest republic in the world, founded in 301 AD."
+ },
+ {
+  "name": "São Tomé and Príncipe",
+  "aliases": [
+   "Sao Tome",
+   "São Tomé",
+   "Sao Tome and Principe"
+  ],
+  "iso2": "ST",
+  "iso3": "STP",
+  "population": 245000,
+  "continent": "Africa",
+  "subregion": "Middle Africa",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "both",
+  "seas": [],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "São Tomé and Príncipe is the second-smallest country in Africa."
+ },
+ {
+  "name": "Saudi Arabia",
+  "aliases": [
+   "KSA",
+   "Saudi"
+  ],
+  "iso2": "SA",
+  "iso3": "SAU",
+  "population": 35166000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Red Sea"
+  ],
+  "neighbors": [
+   "JOR",
+   "IRQ",
+   "KWT",
+   "QAT",
+   "ARE",
+   "OMN",
+   "YEM"
+  ],
+  "unMember": true,
+  "fact": "Saudi Arabia is the largest country in the world without a permanent river."
+ },
+ {
+  "name": "Senegal",
+  "aliases": [],
+  "iso2": "SN",
+  "iso3": "SEN",
+  "population": 19367000,
+  "continent": "Africa",
+  "subregion": "Western Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "MRT",
+   "MLI",
+   "GIN",
+   "GNB",
+   "GMB"
+  ],
+  "unMember": true,
+  "fact": "Senegal's Lac Rose is naturally pink."
+ },
+ {
+  "name": "Serbia",
+  "aliases": [
+   "Srbija"
+  ],
+  "iso2": "RS",
+  "iso3": "SRB",
+  "population": 6642000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "HUN",
+   "ROU",
+   "BGR",
+   "MKD",
+   "XKX",
+   "MNE",
+   "BIH",
+   "HRV"
+  ],
+  "unMember": true,
+  "fact": "Serbia is one of the largest raspberry exporters in the world."
+ },
+ {
+  "name": "Seychelles",
+  "aliases": [],
+  "iso2": "SC",
+  "iso3": "SYC",
+  "population": 135000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "S",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Seychelles is home to the coco de mer, which has the largest seed in the world."
+ },
+ {
+  "name": "Sierra Leone",
+  "aliases": [],
+  "iso2": "SL",
+  "iso3": "SLE",
+  "population": 8997000,
+  "continent": "Africa",
+  "subregion": "Western Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "GIN",
+   "LBR"
+  ],
+  "unMember": true,
+  "fact": "Freetown, the capital of Sierra Leone, was founded as a home for freed slaves in 1792."
+ },
+ {
+  "name": "Singapore",
+  "aliases": [],
+  "iso2": "SG",
+  "iso3": "SGP",
+  "population": 5906000,
+  "continent": "Asia",
+  "subregion": "South-eastern Asia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Singapore is one of only three sovereign city-states in the world."
+ },
+ {
+  "name": "Slovakia",
+  "aliases": [
+   "Slovak Republic"
+  ],
+  "iso2": "SK",
+  "iso3": "SVK",
+  "population": 5451000,
+  "continent": "Europe",
+  "subregion": "Eastern Europe",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "CZE",
+   "POL",
+   "UKR",
+   "HUN",
+   "AUT"
+  ],
+  "unMember": true,
+  "fact": "Slovakia makes more cars per person than any other country."
+ },
+ {
+  "name": "Slovenia",
+  "aliases": [],
+  "iso2": "SI",
+  "iso3": "SVN",
+  "population": 2115000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "ITA",
+   "AUT",
+   "HUN",
+   "HRV"
+  ],
+  "unMember": true,
+  "fact": "More than half of Slovenia is covered by forest."
+ },
+ {
+  "name": "Solomon Islands",
+  "aliases": [
+   "Solomons"
+  ],
+  "iso2": "SB",
+  "iso3": "SLB",
+  "population": 858000,
+  "continent": "Oceania",
+  "subregion": "Melanesia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "S",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Guadalcanal in the Solomon Islands saw some of the fiercest fighting of World War II."
+ },
+ {
+  "name": "Somalia",
+  "aliases": [],
+  "iso2": "SO",
+  "iso3": "SOM",
+  "population": 20306000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "both",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [
+   "DJI",
+   "ETH",
+   "KEN"
+  ],
+  "unMember": true,
+  "fact": "Somalia has the longest coastline of mainland Africa."
+ },
+ {
+  "name": "South Africa",
+  "aliases": [
+   "RSA"
+  ],
+  "iso2": "ZA",
+  "iso3": "ZAF",
+  "population": 65453000,
+  "continent": "Africa",
+  "subregion": "Southern Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [
+   "NAM",
+   "BWA",
+   "ZWE",
+   "MOZ",
+   "SWZ",
+   "LSO"
+  ],
+  "unMember": true,
+  "fact": "South Africa has three capital cities."
+ },
+ {
+  "name": "South Korea",
+  "aliases": [
+   "Korea",
+   "Republic of Korea",
+   "Korea South",
+   "ROK"
+  ],
+  "iso2": "KR",
+  "iso3": "KOR",
+  "population": 51600000,
+  "continent": "Asia",
+  "subregion": "Eastern Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "PRK"
+  ],
+  "unMember": true,
+  "fact": "South Korea has some of the fastest internet speeds in the world."
+ },
+ {
+  "name": "South Sudan",
+  "aliases": [],
+  "iso2": "SS",
+  "iso3": "SSD",
+  "population": 12436000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "SDN",
+   "ETH",
+   "KEN",
+   "UGA",
+   "COD",
+   "CAF"
+  ],
+  "unMember": true,
+  "fact": "South Sudan became the newest UN member state in 2011."
+ },
+ {
+  "name": "Spain",
+  "aliases": [
+   "España",
+   "Espana"
+  ],
+  "iso2": "ES",
+  "iso3": "ESP",
+  "population": 47851000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "FRA",
+   "AND",
+   "PRT",
+   "MAR"
+  ],
+  "unMember": true,
+  "fact": "Spain is the largest producer of olive oil in the world."
+ },
+ {
+  "name": "Sri Lanka",
+  "aliases": [
+   "Ceylon"
+  ],
+  "iso2": "LK",
+  "iso3": "LKA",
+  "population": 23348000,
+  "continent": "Asia",
+  "subregion": "Southern Asia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Sri Lanka elected the first female prime minister in the world, in 1960."
+ },
+ {
+  "name": "Sudan",
+  "aliases": [],
+  "iso2": "SD",
+  "iso3": "SDN",
+  "population": 53283000,
+  "continent": "Africa",
+  "subregion": "Northern Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Red Sea"
+  ],
+  "neighbors": [
+   "EGY",
+   "LBY",
+   "TCD",
+   "CAF",
+   "SSD",
+   "ETH",
+   "ERI"
+  ],
+  "unMember": true,
+  "fact": "Sudan has more pyramids than Egypt."
+ },
+ {
+  "name": "Suriname",
+  "aliases": [
+   "Surinam",
+   "Dutch Guiana"
+  ],
+  "iso2": "SR",
+  "iso3": "SUR",
+  "population": 645000,
+  "continent": "South America",
+  "subregion": "South America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "GUY",
+   "BRA"
+  ],
+  "unMember": true,
+  "fact": "Suriname is the most forested country on Earth by share of land."
+ },
+ {
+  "name": "Sweden",
+  "aliases": [
+   "Sverige"
+  ],
+  "iso2": "SE",
+  "iso3": "SWE",
+  "population": 10701000,
+  "continent": "Europe",
+  "subregion": "Northern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Baltic Sea"
+  ],
+  "neighbors": [
+   "NOR",
+   "FIN"
+  ],
+  "unMember": true,
+  "fact": "Sweden has around 267,000 islands, more than any other country."
+ },
+ {
+  "name": "Switzerland",
+  "aliases": [
+   "Swiss",
+   "Schweiz",
+   "Suisse"
+  ],
+  "iso2": "CH",
+  "iso3": "CHE",
+  "population": 9008000,
+  "continent": "Europe",
+  "subregion": "Western Europe",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "DEU",
+   "FRA",
+   "ITA",
+   "AUT",
+   "LIE"
+  ],
+  "unMember": true,
+  "fact": "Switzerland has enough nuclear shelters for its entire population."
+ },
+ {
+  "name": "Syria",
+  "aliases": [],
+  "iso2": "SY",
+  "iso3": "SYR",
+  "population": 26472000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "TUR",
+   "IRQ",
+   "JOR",
+   "ISR",
+   "LBN"
+  ],
+  "unMember": true,
+  "fact": "Damascus is one of the oldest continuously inhabited cities in the world."
+ },
+ {
+  "name": "Taiwan",
+  "aliases": [
+   "Formosa",
+   "Chinese Taipei",
+   "Republic of China"
+  ],
+  "iso2": "TW",
+  "iso3": "TWN",
+  "population": 23011000,
+  "continent": "Asia",
+  "subregion": "Eastern Asia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": false,
+  "fact": "Taipei 101 was the tallest building in the world from 2004 to 2010."
+ },
+ {
+  "name": "Tajikistan",
+  "aliases": [],
+  "iso2": "TJ",
+  "iso3": "TJK",
+  "population": 10979000,
+  "continent": "Asia",
+  "subregion": "Central Asia",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "AFG",
+   "CHN",
+   "KGZ",
+   "UZB"
+  ],
+  "unMember": true,
+  "fact": "More than 90% of Tajikistan is mountainous."
+ },
+ {
+  "name": "Tanzania",
+  "aliases": [],
+  "iso2": "TZ",
+  "iso3": "TZA",
+  "population": 72564000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [
+   "KEN",
+   "UGA",
+   "RWA",
+   "BDI",
+   "COD",
+   "ZMB",
+   "MWI",
+   "MOZ"
+  ],
+  "unMember": true,
+  "fact": "Tanzania's Kilimanjaro is the tallest free-standing mountain in the world."
+ },
+ {
+  "name": "Thailand",
+  "aliases": [
+   "Siam"
+  ],
+  "iso2": "TH",
+  "iso3": "THA",
+  "population": 71560000,
+  "continent": "Asia",
+  "subregion": "South-eastern Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean",
+   "Indian Ocean"
+  ],
+  "neighbors": [
+   "MMR",
+   "LAO",
+   "KHM",
+   "MYS"
+  ],
+  "unMember": true,
+  "fact": "Thailand is the only Southeast Asian country never colonised by a European power."
+ },
+ {
+  "name": "Timor-Leste",
+  "aliases": [
+   "East Timor",
+   "Timor Leste"
+  ],
+  "iso2": "TL",
+  "iso3": "TLS",
+  "population": 1437000,
+  "continent": "Asia",
+  "subregion": "South-eastern Asia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "S",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [
+   "IDN"
+  ],
+  "unMember": true,
+  "fact": "Timor-Leste became the first new country of the 21st century, in 2002."
+ },
+ {
+  "name": "Togo",
+  "aliases": [],
+  "iso2": "TG",
+  "iso3": "TGO",
+  "population": 9931000,
+  "continent": "Africa",
+  "subregion": "Western Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "GHA",
+   "BFA",
+   "BEN"
+  ],
+  "unMember": true,
+  "fact": "Togo's Koutammakou landscape is famous for its two-storey mud tower-houses."
+ },
+ {
+  "name": "Tonga",
+  "aliases": [],
+  "iso2": "TO",
+  "iso3": "TON",
+  "population": 103000,
+  "continent": "Oceania",
+  "subregion": "Polynesia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "S",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Tonga is the only Pacific island nation never formally colonised."
+ },
+ {
+  "name": "Trinidad and Tobago",
+  "aliases": [
+   "Trinidad",
+   "Tobago"
+  ],
+  "iso2": "TT",
+  "iso3": "TTO",
+  "population": 1513000,
+  "continent": "North America",
+  "subregion": "Caribbean",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Trinidad and Tobago is the birthplace of the steelpan drum."
+ },
+ {
+  "name": "Tunisia",
+  "aliases": [],
+  "iso2": "TN",
+  "iso3": "TUN",
+  "population": 12415000,
+  "continent": "Africa",
+  "subregion": "Northern Africa",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea"
+  ],
+  "neighbors": [
+   "DZA",
+   "LBY"
+  ],
+  "unMember": true,
+  "fact": "Tunisia's desert was the filming location for Luke Skywalker's home planet."
+ },
+ {
+  "name": "Turkey",
+  "aliases": [
+   "Türkiye",
+   "Turkiye"
+  ],
+  "iso2": "TR",
+  "iso3": "TUR",
+  "population": 87926000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Mediterranean Sea",
+   "Black Sea"
+  ],
+  "neighbors": [
+   "GRC",
+   "BGR",
+   "GEO",
+   "ARM",
+   "AZE",
+   "IRN",
+   "IRQ",
+   "SYR"
+  ],
+  "unMember": true,
+  "fact": "Istanbul straddles two continents, Europe and Asia."
+ },
+ {
+  "name": "Turkmenistan",
+  "aliases": [],
+  "iso2": "TM",
+  "iso3": "TKM",
+  "population": 7737000,
+  "continent": "Asia",
+  "subregion": "Central Asia",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Caspian Sea"
+  ],
+  "neighbors": [
+   "KAZ",
+   "UZB",
+   "AFG",
+   "IRN"
+  ],
+  "unMember": true,
+  "fact": "Turkmenistan's Darvaza gas crater, the 'Door to Hell', has been burning since 1971."
+ },
+ {
+  "name": "Tuvalu",
+  "aliases": [],
+  "iso2": "TV",
+  "iso3": "TUV",
+  "population": 9000,
+  "continent": "Oceania",
+  "subregion": "Polynesia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "S",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Tuvalu earns a big share of its income from its '.tv' internet domain."
+ },
+ {
+  "name": "Uganda",
+  "aliases": [],
+  "iso2": "UG",
+  "iso3": "UGA",
+  "population": 52761000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "both",
+  "seas": [],
+  "neighbors": [
+   "KEN",
+   "SSD",
+   "COD",
+   "RWA",
+   "TZA"
+  ],
+  "unMember": true,
+  "fact": "Uganda is home to about half of the mountain gorillas left in the world."
+ },
+ {
+  "name": "Ukraine",
+  "aliases": [],
+  "iso2": "UA",
+  "iso3": "UKR",
+  "population": 39536000,
+  "continent": "Europe",
+  "subregion": "Eastern Europe",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Black Sea"
+  ],
+  "neighbors": [
+   "RUS",
+   "BLR",
+   "POL",
+   "SVK",
+   "HUN",
+   "ROU",
+   "MDA"
+  ],
+  "unMember": true,
+  "fact": "Ukraine is the largest country entirely within Europe."
+ },
+ {
+  "name": "United Arab Emirates",
+  "aliases": [
+   "UAE",
+   "Emirates"
+  ],
+  "iso2": "AE",
+  "iso3": "ARE",
+  "population": 11575000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Indian Ocean"
+  ],
+  "neighbors": [
+   "SAU",
+   "OMN"
+  ],
+  "unMember": true,
+  "fact": "Dubai's Burj Khalifa is the tallest building in the world."
+ },
+ {
+  "name": "United Kingdom",
+  "aliases": [
+   "UK",
+   "U.K.",
+   "Great Britain",
+   "Britain",
+   "England",
+   "Scotland",
+   "Wales",
+   "Northern Ireland",
+   "GB"
+  ],
+  "iso2": "GB",
+  "iso3": "GBR",
+  "population": 69932000,
+  "continent": "Europe",
+  "subregion": "Northern Europe",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "IRL"
+  ],
+  "unMember": true,
+  "fact": "Nowhere in the UK is more than about 120 km from the sea."
+ },
+ {
+  "name": "United States",
+  "aliases": [
+   "USA",
+   "US",
+   "U.S.",
+   "U.S.A.",
+   "America",
+   "United States of America",
+   "States"
+  ],
+  "iso2": "US",
+  "iso3": "USA",
+  "population": 349035000,
+  "continent": "North America",
+  "subregion": "Northern America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "CAN",
+   "MEX"
+  ],
+  "unMember": true,
+  "fact": "The US bought Alaska from Russia in 1867 for about two cents an acre."
+ },
+ {
+  "name": "Uruguay",
+  "aliases": [],
+  "iso2": "UY",
+  "iso3": "URY",
+  "population": 3383000,
+  "continent": "South America",
+  "subregion": "South America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [],
+  "neighbors": [
+   "ARG",
+   "BRA"
+  ],
+  "unMember": true,
+  "fact": "Uruguay hosted and won the first FIFA World Cup, in 1930."
+ },
+ {
+  "name": "Uzbekistan",
+  "aliases": [],
+  "iso2": "UZ",
+  "iso3": "UZB",
+  "population": 37724000,
+  "continent": "Asia",
+  "subregion": "Central Asia",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "KAZ",
+   "KGZ",
+   "TJK",
+   "AFG",
+   "TKM"
+  ],
+  "unMember": true,
+  "fact": "Uzbekistan is one of only two doubly landlocked countries."
+ },
+ {
+  "name": "Vanuatu",
+  "aliases": [
+   "New Hebrides"
+  ],
+  "iso2": "VU",
+  "iso3": "VUT",
+  "population": 343000,
+  "continent": "Oceania",
+  "subregion": "Melanesia",
+  "landlocked": false,
+  "island": true,
+  "hemisphere": "S",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [],
+  "unMember": true,
+  "fact": "Vanuatu has an underwater post office."
+ },
+ {
+  "name": "Vatican City",
+  "aliases": [
+   "Vatican",
+   "Holy See"
+  ],
+  "iso2": "VA",
+  "iso3": "VAT",
+  "population": 1000,
+  "continent": "Europe",
+  "subregion": "Southern Europe",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "ITA"
+  ],
+  "unMember": false,
+  "fact": "Vatican City is the smallest country in the world, at 0.44 km²."
+ },
+ {
+  "name": "Venezuela",
+  "aliases": [],
+  "iso2": "VE",
+  "iso3": "VEN",
+  "population": 28634000,
+  "continent": "South America",
+  "subregion": "South America",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [],
+  "neighbors": [
+   "COL",
+   "BRA",
+   "GUY"
+  ],
+  "unMember": true,
+  "fact": "Venezuela's Angel Falls is the highest waterfall in the world."
+ },
+ {
+  "name": "Vietnam",
+  "aliases": [
+   "Viet Nam"
+  ],
+  "iso2": "VN",
+  "iso3": "VNM",
+  "population": 102177000,
+  "continent": "Asia",
+  "subregion": "South-eastern Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Pacific Ocean"
+  ],
+  "neighbors": [
+   "CHN",
+   "LAO",
+   "KHM"
+  ],
+  "unMember": true,
+  "fact": "Vietnam is the second-largest coffee exporter in the world."
+ },
+ {
+  "name": "Yemen",
+  "aliases": [],
+  "iso2": "YE",
+  "iso3": "YEM",
+  "population": 42962000,
+  "continent": "Asia",
+  "subregion": "Western Asia",
+  "landlocked": false,
+  "island": false,
+  "hemisphere": "N",
+  "seas": [
+   "Red Sea",
+   "Indian Ocean"
+  ],
+  "neighbors": [
+   "SAU",
+   "OMN"
+  ],
+  "unMember": true,
+  "fact": "Yemen's Shibam is called the 'Manhattan of the desert' for its mud-brick towers."
+ },
+ {
+  "name": "Zambia",
+  "aliases": [
+   "Northern Rhodesia"
+  ],
+  "iso2": "ZM",
+  "iso3": "ZMB",
+  "population": 22522000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [],
+  "neighbors": [
+   "COD",
+   "TZA",
+   "MWI",
+   "MOZ",
+   "ZWE",
+   "BWA",
+   "NAM",
+   "AGO"
+  ],
+  "unMember": true,
+  "fact": "Zambia shares Victoria Falls, the largest sheet of falling water on Earth, with Zimbabwe."
+ },
+ {
+  "name": "Zimbabwe",
+  "aliases": [
+   "Rhodesia"
+  ],
+  "iso2": "ZW",
+  "iso3": "ZWE",
+  "population": 17274000,
+  "continent": "Africa",
+  "subregion": "Eastern Africa",
+  "landlocked": true,
+  "island": false,
+  "hemisphere": "S",
+  "seas": [],
+  "neighbors": [
+   "ZMB",
+   "MOZ",
+   "ZAF",
+   "BWA"
+  ],
+  "unMember": true,
+  "fact": "Zimbabwe is named after Great Zimbabwe; the name means 'houses of stone'."
+ }
+]

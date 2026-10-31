@@ -1,0 +1,33 @@
+{
+  "name": "loadline",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "LOADLINE: a daily geography puzzle. Load the ship, don't sink it.",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run data && tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "data": "tsx scripts/build-countries.ts",
+    "puzzles": "tsx scripts/check-puzzles.ts",
+    "test": "vitest run",
+    "shots": "tsx scripts/screenshots.ts",
+    "icons": "tsx scripts/make-icons.ts",
+    "keys": "tsx scripts/make-license-keys.ts",
+    "deploy": "npm run build && gh-pages -d dist --nojekyll"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "gh-pages": "^6.3.0",
+    "playwright": "^1.64.1",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  },
+  "dependencies": {
+    "@fontsource/press-start-2p": "^5.3.0",
+    "@fontsource/vt323": "^5.3.0",
+    "flag-icons": "^7.6.0"
+  }
+}
